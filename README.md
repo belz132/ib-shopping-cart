@@ -1,3 +1,5 @@
+# ib-shopping-cart
+
 This is a continuation of "product-page-basic" project before.
 
 This project extends the use of Vuex as state management, Vue Router for navigating through pages, and Axios for making HTTP request to a made-up/ mocking controller that simulate backend functionality. This time, HomePage component was broken down into two separate routes, which are: HomePage (end point component for product list route ) and Cart (end point component for shopping cart route). All other features/ functionalities remain the same with "product-page-basic" project before.
@@ -30,15 +32,15 @@ Components
 Hierarchy
 
 1. HomePage.vue 
-    a. MainTemplate.vue 
-    b. ProductList.vue 
-        b.1. ProductItem.vue 
-            b.1.1. Button.vue 
+    * MainTemplate.vue 
+    * ProductList.vue 
+        - ProductItem.vue 
+            - Button.vue 
 2. Cart.vue
-    a. MainTemplate.vue 
-    b. ShoppingCart.vue 
-        b.1. ShoppingCartItem.vue 
-            b.1.1. Button.vue
+    * MainTemplate.vue 
+    * ShoppingCart.vue 
+        * ShoppingCartItem.vue 
+            * Button.vue
 
 Features/ Functionalities
 
