@@ -1,1 +1,1 @@
-# ib-shopping-cart
+See dev branch for now.
