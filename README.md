@@ -24,7 +24,8 @@ Components
 
 5. Pages:
 
-    * HomePage (HomePage.vue): an instance of the MainTemplate with actual products and cart items populated.
+    * HomePage (HomePage.vue): end point component for product list route, diplaying list of all products.
+    * Cart (Cart.vue): end point component for shopping cart route, displaying products that have been added into the shopping cart.
 
 Hierarchy
 
