@@ -1,0 +1,10 @@
+[
+        { "id": 1, "name": "Indomie Goreng Rendang", "description": "Masakan instan terenak di dunia", "stock": 10, "price": 3900, "category": "food" },
+        { "id": 2, "name": "Aqua Gelas", "description": "Tinggal glek..ahhh", "stock": 100, "price": 500, "category": "beverages" },
+        { "id": 3, "name": "Mie Gelas Rendang", "description": "Mie instant khusus anak kosan", "stock": 3, "price": 1500, "category": "food" },
+        { "id": 4, "name": "Aqua Botol", "description": "Beberapa kali glek..glek..glek", "stock": 49, "price": 5000, "category": "beverages" },
+        { "id": 5, "name": "Bakmi mewah", "description": "Kalau anak kosan jangan macam2 deh", "stock": 80, "price": 10000, "category": "food" },
+        { "id": 6, "name": "Aqua Galon", "description": "Sekeluarga glek..glek..glek", "stock": 21, "price": 20000, "category": "beverages" },
+        { "id": 7, "name": "Kacang Goreng", "description": "Cemilan nonton bola", "stock": 19, "price": 1000, "category": "food" },
+        { "id": 8, "name": "Tebs Botol", "description": "Segeeer..cssshhh", "stock": 30, "price": 6000, "category": "beverages" }
+    ]
